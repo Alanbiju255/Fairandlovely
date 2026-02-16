@@ -1,0 +1,6 @@
+streamlit
+pandas
+reportlab
+ttkbootstrap
+xlsxwriter
+watchdog
